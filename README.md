@@ -9,6 +9,12 @@ https://github.com/LucasBolela/Horus-Mobile
 
 https://user-images.githubusercontent.com/61119223/198873792-db31ee1d-053e-4f1f-8da1-1a4022d78ea1.mp4
 
+# Código Web + Design System UI
+
+https://github.com/davialc/Horus-UI
+
+https://github.com/davialc/Horus-Web
+
 
 # Código Back-End
 
