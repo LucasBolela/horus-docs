@@ -15,12 +15,33 @@ https://github.com/AndremRufino/Horus
 
 # Documentação
 
+## Diagrama de Entidades
+
 [er-diagrama.pdf](https://github.com/LucasBolela/horus-docs/files/9895600/er-diagrama.pdf)
+
+## Documento de Requisitos
+
 [Requisitos_Hackaton2022.pdf](https://github.com/LucasBolela/horus-docs/files/9895601/Requisitos_Hackaton2022.pdf)
+
+## Documento de regra de negócio
+
 [Regras_de_Negócio_Hackaton2022.pdf](https://github.com/LucasBolela/horus-docs/files/9895602/Regras_de_Negocio_Hackaton2022.pdf)
+
+## Matriz de Rastreabilidade (RN X RF)
+
 [Matriz_de_Rastreabilidade_Hackaton.pdf](https://github.com/LucasBolela/horus-docs/files/9895603/Matriz_de_Rastreabilidade_Hackaton.pdf)
+
+
+## Documento do caso de uso
+
 [Caso_de_Uso_Doc.pdf](https://github.com/LucasBolela/horus-docs/files/9895604/Caso_de_Uso_Doc.pdf)
+
+## Diagrama de caso de Uso
+
 [Caso_de_Uso_Diagrama.pdf](https://github.com/LucasBolela/horus-docs/files/9895605/Caso_de_Uso_Diagrama.pdf)
+
+## BPMN
+
 [Hackaton - Horus BPMN.pdf](https://github.com/LucasBolela/horus-docs/files/9895606/Hackaton.-.Horus.BPMN.pdf)
 
 
